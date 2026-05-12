@@ -46,7 +46,7 @@ Model ini dibangun dengan struktur berlapis yang dioptimasi untuk kecepatan dan 
 ## 🛠️ Installation & Setup
 ```bash
 # Clone the intelligence
-git clone [https://github.com/username-kamu/spotify-pulse.git](https://github.com/username-kamu/spotify-pulse.git)
+git clone https://github.com/NEROCAESAR76/spotify-pulse.git
 
 # Enter the directory
 cd spotify-pulse
